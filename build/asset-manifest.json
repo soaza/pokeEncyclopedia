@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/robofriends/static/css/main.b54ac7fd.chunk.css",
-    "main.js": "/robofriends/static/js/main.05b4e24b.chunk.js",
-    "main.js.map": "/robofriends/static/js/main.05b4e24b.chunk.js.map",
-    "runtime-main.js": "/robofriends/static/js/runtime-main.df7e3688.js",
-    "runtime-main.js.map": "/robofriends/static/js/runtime-main.df7e3688.js.map",
-    "static/css/2.31461e4f.chunk.css": "/robofriends/static/css/2.31461e4f.chunk.css",
-    "static/js/2.a6c4d654.chunk.js": "/robofriends/static/js/2.a6c4d654.chunk.js",
-    "static/js/2.a6c4d654.chunk.js.map": "/robofriends/static/js/2.a6c4d654.chunk.js.map",
-    "static/js/3.5218428c.chunk.js": "/robofriends/static/js/3.5218428c.chunk.js",
-    "static/js/3.5218428c.chunk.js.map": "/robofriends/static/js/3.5218428c.chunk.js.map",
-    "index.html": "/robofriends/index.html",
-    "static/css/2.31461e4f.chunk.css.map": "/robofriends/static/css/2.31461e4f.chunk.css.map",
-    "static/css/main.b54ac7fd.chunk.css.map": "/robofriends/static/css/main.b54ac7fd.chunk.css.map",
-    "static/js/2.a6c4d654.chunk.js.LICENSE.txt": "/robofriends/static/js/2.a6c4d654.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/robofriends/static/media/SEGA.47b4bfa9.woff"
+    "main.css": "/pokemoveCombinator/static/css/main.a3853bd6.chunk.css",
+    "main.js": "/pokemoveCombinator/static/js/main.1a51ce92.chunk.js",
+    "main.js.map": "/pokemoveCombinator/static/js/main.1a51ce92.chunk.js.map",
+    "runtime-main.js": "/pokemoveCombinator/static/js/runtime-main.fd05bc77.js",
+    "runtime-main.js.map": "/pokemoveCombinator/static/js/runtime-main.fd05bc77.js.map",
+    "static/css/2.31461e4f.chunk.css": "/pokemoveCombinator/static/css/2.31461e4f.chunk.css",
+    "static/js/2.da0a341a.chunk.js": "/pokemoveCombinator/static/js/2.da0a341a.chunk.js",
+    "static/js/2.da0a341a.chunk.js.map": "/pokemoveCombinator/static/js/2.da0a341a.chunk.js.map",
+    "static/js/3.67882b95.chunk.js": "/pokemoveCombinator/static/js/3.67882b95.chunk.js",
+    "static/js/3.67882b95.chunk.js.map": "/pokemoveCombinator/static/js/3.67882b95.chunk.js.map",
+    "index.html": "/pokemoveCombinator/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/pokemoveCombinator/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.a3853bd6.chunk.css.map": "/pokemoveCombinator/static/css/main.a3853bd6.chunk.css.map",
+    "static/js/2.da0a341a.chunk.js.LICENSE.txt": "/pokemoveCombinator/static/js/2.da0a341a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/pokemoveCombinator/static/media/SEGA.47b4bfa9.woff",
+    "static/media/index.css": "/pokemoveCombinator/static/media/wallpaper.0f893c8a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.df7e3688.js",
+    "static/js/runtime-main.fd05bc77.js",
     "static/css/2.31461e4f.chunk.css",
-    "static/js/2.a6c4d654.chunk.js",
-    "static/css/main.b54ac7fd.chunk.css",
-    "static/js/main.05b4e24b.chunk.js"
+    "static/js/2.da0a341a.chunk.js",
+    "static/css/main.a3853bd6.chunk.css",
+    "static/js/main.1a51ce92.chunk.js"
   ]
 }
