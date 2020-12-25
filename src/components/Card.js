@@ -12,7 +12,7 @@ const Card = ({ name, email, id, details }) => {
 			<div>
 				<h2> {capitalizeFirstLetter(name)} </h2>
 				<p> {"#"+id}</p>
-				<p> {"Flavor Text:"+ details[id-1]}</p>
+				<p className = 'flavor-text'> <b>Flavor Text:</b>  {details[id-1]}</p>
 			</div>
 		</div>
 	);

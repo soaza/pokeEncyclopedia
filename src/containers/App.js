@@ -16,7 +16,7 @@ class App extends Component {
 	}
 
 	fetchPokemon() {
-		fetch('https://pokeapi.co/api/v2/pokedex/1/')
+		fetch('https://pokeapi.co/api/v2/pokedex/2/')
 		.then(response => response.json())
 		.then(data => {
 			this.setState({pokemons: data.pokemon_entries});

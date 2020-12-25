@@ -1,3 +1,12 @@
+h2 {
+	font-family: 'Courier New', monospace;
+	margin: 10px 0px 10px 0px;
+}
+
+p {
+	margin: 0px 0px 0px 0px;
+}
+
 .pokemon-image {
 	max-width : 200px;
 	max-height: 200px;
@@ -6,4 +15,8 @@
 .pokemon-card {
 	max-width : 400px;
 	max-height: 400px;
+}
+
+.flavor-text {
+	font-family: Courier New;
 }
