@@ -1,0 +1,9 @@
+.pokemon-image {
+	max-width : 200px;
+	max-height: 200px;
+}
+
+.pokemon-card {
+	max-width : 400px;
+	max-height: 400px;
+}
