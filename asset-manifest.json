@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/pokemoveCombinator/static/css/main.a3853bd6.chunk.css",
-    "main.js": "/pokemoveCombinator/static/js/main.1a51ce92.chunk.js",
-    "main.js.map": "/pokemoveCombinator/static/js/main.1a51ce92.chunk.js.map",
-    "runtime-main.js": "/pokemoveCombinator/static/js/runtime-main.fd05bc77.js",
-    "runtime-main.js.map": "/pokemoveCombinator/static/js/runtime-main.fd05bc77.js.map",
-    "static/css/2.31461e4f.chunk.css": "/pokemoveCombinator/static/css/2.31461e4f.chunk.css",
-    "static/js/2.da0a341a.chunk.js": "/pokemoveCombinator/static/js/2.da0a341a.chunk.js",
-    "static/js/2.da0a341a.chunk.js.map": "/pokemoveCombinator/static/js/2.da0a341a.chunk.js.map",
-    "static/js/3.67882b95.chunk.js": "/pokemoveCombinator/static/js/3.67882b95.chunk.js",
-    "static/js/3.67882b95.chunk.js.map": "/pokemoveCombinator/static/js/3.67882b95.chunk.js.map",
-    "index.html": "/pokemoveCombinator/index.html",
-    "static/css/2.31461e4f.chunk.css.map": "/pokemoveCombinator/static/css/2.31461e4f.chunk.css.map",
-    "static/css/main.a3853bd6.chunk.css.map": "/pokemoveCombinator/static/css/main.a3853bd6.chunk.css.map",
-    "static/js/2.da0a341a.chunk.js.LICENSE.txt": "/pokemoveCombinator/static/js/2.da0a341a.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/pokemoveCombinator/static/media/SEGA.47b4bfa9.woff",
-    "static/media/index.css": "/pokemoveCombinator/static/media/wallpaper.0f893c8a.jpg"
+    "main.css": "/pokemoveEncyclopedia/static/css/main.40f87754.chunk.css",
+    "main.js": "/pokemoveEncyclopedia/static/js/main.1a51ce92.chunk.js",
+    "main.js.map": "/pokemoveEncyclopedia/static/js/main.1a51ce92.chunk.js.map",
+    "runtime-main.js": "/pokemoveEncyclopedia/static/js/runtime-main.bf80b100.js",
+    "runtime-main.js.map": "/pokemoveEncyclopedia/static/js/runtime-main.bf80b100.js.map",
+    "static/css/2.31461e4f.chunk.css": "/pokemoveEncyclopedia/static/css/2.31461e4f.chunk.css",
+    "static/js/2.da0a341a.chunk.js": "/pokemoveEncyclopedia/static/js/2.da0a341a.chunk.js",
+    "static/js/2.da0a341a.chunk.js.map": "/pokemoveEncyclopedia/static/js/2.da0a341a.chunk.js.map",
+    "static/js/3.67882b95.chunk.js": "/pokemoveEncyclopedia/static/js/3.67882b95.chunk.js",
+    "static/js/3.67882b95.chunk.js.map": "/pokemoveEncyclopedia/static/js/3.67882b95.chunk.js.map",
+    "index.html": "/pokemoveEncyclopedia/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/pokemoveEncyclopedia/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.40f87754.chunk.css.map": "/pokemoveEncyclopedia/static/css/main.40f87754.chunk.css.map",
+    "static/js/2.da0a341a.chunk.js.LICENSE.txt": "/pokemoveEncyclopedia/static/js/2.da0a341a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/pokemoveEncyclopedia/static/media/SEGA.47b4bfa9.woff",
+    "static/media/index.css": "/pokemoveEncyclopedia/static/media/wallpaper.0f893c8a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fd05bc77.js",
+    "static/js/runtime-main.bf80b100.js",
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.da0a341a.chunk.js",
-    "static/css/main.a3853bd6.chunk.css",
+    "static/css/main.40f87754.chunk.css",
     "static/js/main.1a51ce92.chunk.js"
   ]
 }
