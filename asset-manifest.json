@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/pokemoveEncyclopedia/static/css/main.40f87754.chunk.css",
-    "main.js": "/pokemoveEncyclopedia/static/js/main.1a51ce92.chunk.js",
-    "main.js.map": "/pokemoveEncyclopedia/static/js/main.1a51ce92.chunk.js.map",
-    "runtime-main.js": "/pokemoveEncyclopedia/static/js/runtime-main.bf80b100.js",
-    "runtime-main.js.map": "/pokemoveEncyclopedia/static/js/runtime-main.bf80b100.js.map",
-    "static/css/2.31461e4f.chunk.css": "/pokemoveEncyclopedia/static/css/2.31461e4f.chunk.css",
-    "static/js/2.da0a341a.chunk.js": "/pokemoveEncyclopedia/static/js/2.da0a341a.chunk.js",
-    "static/js/2.da0a341a.chunk.js.map": "/pokemoveEncyclopedia/static/js/2.da0a341a.chunk.js.map",
-    "static/js/3.67882b95.chunk.js": "/pokemoveEncyclopedia/static/js/3.67882b95.chunk.js",
-    "static/js/3.67882b95.chunk.js.map": "/pokemoveEncyclopedia/static/js/3.67882b95.chunk.js.map",
-    "index.html": "/pokemoveEncyclopedia/index.html",
-    "static/css/2.31461e4f.chunk.css.map": "/pokemoveEncyclopedia/static/css/2.31461e4f.chunk.css.map",
-    "static/css/main.40f87754.chunk.css.map": "/pokemoveEncyclopedia/static/css/main.40f87754.chunk.css.map",
-    "static/js/2.da0a341a.chunk.js.LICENSE.txt": "/pokemoveEncyclopedia/static/js/2.da0a341a.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/pokemoveEncyclopedia/static/media/SEGA.47b4bfa9.woff",
-    "static/media/index.css": "/pokemoveEncyclopedia/static/media/wallpaper.0f893c8a.jpg"
+    "main.css": "/pokeEncyclopedia/static/css/main.35b2c1ca.chunk.css",
+    "main.js": "/pokeEncyclopedia/static/js/main.4bb7de24.chunk.js",
+    "main.js.map": "/pokeEncyclopedia/static/js/main.4bb7de24.chunk.js.map",
+    "runtime-main.js": "/pokeEncyclopedia/static/js/runtime-main.abbe90ab.js",
+    "runtime-main.js.map": "/pokeEncyclopedia/static/js/runtime-main.abbe90ab.js.map",
+    "static/css/2.31461e4f.chunk.css": "/pokeEncyclopedia/static/css/2.31461e4f.chunk.css",
+    "static/js/2.78399ce6.chunk.js": "/pokeEncyclopedia/static/js/2.78399ce6.chunk.js",
+    "static/js/2.78399ce6.chunk.js.map": "/pokeEncyclopedia/static/js/2.78399ce6.chunk.js.map",
+    "static/js/3.a791c606.chunk.js": "/pokeEncyclopedia/static/js/3.a791c606.chunk.js",
+    "static/js/3.a791c606.chunk.js.map": "/pokeEncyclopedia/static/js/3.a791c606.chunk.js.map",
+    "index.html": "/pokeEncyclopedia/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/pokeEncyclopedia/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.35b2c1ca.chunk.css.map": "/pokeEncyclopedia/static/css/main.35b2c1ca.chunk.css.map",
+    "static/js/2.78399ce6.chunk.js.LICENSE.txt": "/pokeEncyclopedia/static/js/2.78399ce6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/pokeEncyclopedia/static/media/SEGA.47b4bfa9.woff",
+    "static/media/index.css": "/pokeEncyclopedia/static/media/wallpaper.0f893c8a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bf80b100.js",
+    "static/js/runtime-main.abbe90ab.js",
     "static/css/2.31461e4f.chunk.css",
-    "static/js/2.da0a341a.chunk.js",
-    "static/css/main.40f87754.chunk.css",
-    "static/js/main.1a51ce92.chunk.js"
+    "static/js/2.78399ce6.chunk.js",
+    "static/css/main.35b2c1ca.chunk.css",
+    "static/js/main.4bb7de24.chunk.js"
   ]
 }
